@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "SinisterPyro",
+    "SHORT" : "Supposedly...",
+    "DESCRIPTION" : "Randomly responds to user mesages with "*Supposedly...*" (1 in 300 Chnace)",
+    "DISABLED" : false,
+    "NAME" : "Supposedly",
+    "TAGS" : ["Supposedly", "random", "trigger"],
+    "INSTALL_MSG" : "Supposedly cog now installed, no other steps required."
+}
